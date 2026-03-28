@@ -16,7 +16,7 @@ sites:
     url: https://densaulyk.kz/
 
 status-website:
-  # baseUrl: /emdey-uptime
+  baseUrl: /emdey-uptime
   name: Emdey Uptime
   navbar:
     - title: Status
