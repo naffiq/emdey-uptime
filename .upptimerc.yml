@@ -2,20 +2,23 @@ owner: naffiq
 repo: emdey-uptime
 
 sites:
-  - name: MIS Emdey
-    url: https://mis.emdey.kz/
-  - name: MIS Emdey Dev
-    url: https://mis-dev.emdey.kz/
-  - name: Vet Emdey
-    url: https://vet.emdey.kz/
-  - name: Vet Emdey Dev
-    url: https://vet-dev.emdey.kz/
   - name: Emdey
     url: https://emdey.kz/
+  - name: API Emdey
+    url: https://api.emdey.kz/
+  - name: MIS Emdey
+    url: https://mis.emdey.kz/
+  - name: Vet Emdey
+    url: https://vet.emdey.kz/
   - name: Densaulyk
     url: https://densaulyk.kz/
+  - name: MID Dev
+    url: https://mid.dev.emdey.kz/
+  - name: API Dev
+    url: https://api.dev.emdey.kz/
 
 status-website:
+  publish: true
   baseUrl: /emdey-uptime
   name: Emdey Uptime
   navbar:
@@ -23,6 +26,3 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
