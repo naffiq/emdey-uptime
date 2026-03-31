@@ -1,45 +1,62 @@
 [
   {
+    "name": "Emdey",
+    "url": "https://emdey.kz/",
+    "icon": "https://icons.duckduckgo.com/ip3/emdey.kz.ico",
+    "slug": "emdey",
+    "status": "up",
+    "uptime": "98.78%",
+    "uptimeDay": "96.17%",
+    "uptimeWeek": "98.78%",
+    "uptimeMonth": "98.78%",
+    "uptimeYear": "98.78%",
+    "time": 1502,
+    "timeDay": 1489,
+    "timeWeek": 1502,
+    "timeMonth": 1502,
+    "timeYear": 1502,
+    "dailyMinutesDown": {
+      "2026-03-31": 55
+    }
+  },
+  {
+    "name": "API Emdey",
+    "url": "https://api.emdey.kz/",
+    "icon": "https://icons.duckduckgo.com/ip3/api.emdey.kz.ico",
+    "slug": "api-emdey",
+    "status": "down",
+    "uptime": "3.45%",
+    "uptimeDay": "3.45%",
+    "uptimeWeek": "3.45%",
+    "uptimeMonth": "3.45%",
+    "uptimeYear": "3.45%",
+    "time": 1031,
+    "timeDay": 1031,
+    "timeWeek": 1031,
+    "timeMonth": 1031,
+    "timeYear": 1031,
+    "dailyMinutesDown": {
+      "2026-03-31": 0
+    }
+  },
+  {
     "name": "MIS Emdey",
     "url": "https://mis.emdey.kz/",
     "icon": "https://icons.duckduckgo.com/ip3/mis.emdey.kz.ico",
     "slug": "mis-emdey",
     "status": "up",
-    "uptime": "98.65%",
+    "uptime": "98.72%",
     "uptimeDay": "95.97%",
-    "uptimeWeek": "98.65%",
-    "uptimeMonth": "98.65%",
-    "uptimeYear": "98.65%",
-    "time": 1007,
-    "timeDay": 967,
-    "timeWeek": 1007,
-    "timeMonth": 1007,
-    "timeYear": 1007,
+    "uptimeWeek": "98.72%",
+    "uptimeMonth": "98.72%",
+    "uptimeYear": "98.72%",
+    "time": 1029,
+    "timeDay": 1027,
+    "timeWeek": 1029,
+    "timeMonth": 1029,
+    "timeYear": 1029,
     "dailyMinutesDown": {
       "2026-03-31": 58
-    }
-  },
-  {
-    "name": "MIS Emdey Dev",
-    "url": "https://mis-dev.emdey.kz/",
-    "icon": "https://icons.duckduckgo.com/ip3/mis-dev.emdey.kz.ico",
-    "slug": "mis-emdey-dev",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2026-03-31": 676,
-      "2026-03-30": 1440,
-      "2026-03-29": 1440,
-      "2026-03-28": 728
     }
   },
   {
@@ -48,61 +65,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/vet.emdey.kz.ico",
     "slug": "vet-emdey",
     "status": "up",
-    "uptime": "98.69%",
+    "uptime": "98.76%",
     "uptimeDay": "96.10%",
-    "uptimeWeek": "98.69%",
-    "uptimeMonth": "98.69%",
-    "uptimeYear": "98.69%",
-    "time": 977,
-    "timeDay": 867,
-    "timeWeek": 977,
-    "timeMonth": 977,
-    "timeYear": 977,
+    "uptimeWeek": "98.76%",
+    "uptimeMonth": "98.76%",
+    "uptimeYear": "98.76%",
+    "time": 1004,
+    "timeDay": 955,
+    "timeWeek": 1004,
+    "timeMonth": 1004,
+    "timeYear": 1004,
     "dailyMinutesDown": {
       "2026-03-31": 57
-    }
-  },
-  {
-    "name": "Vet Emdey Dev",
-    "url": "https://vet-dev.emdey.kz/",
-    "icon": "https://icons.duckduckgo.com/ip3/vet-dev.emdey.kz.ico",
-    "slug": "vet-emdey-dev",
-    "status": "down",
-    "uptime": "0.66%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.66%",
-    "uptimeMonth": "0.66%",
-    "uptimeYear": "0.66%",
-    "time": 1016,
-    "timeDay": 0,
-    "timeWeek": 1016,
-    "timeMonth": 1016,
-    "timeYear": 1016,
-    "dailyMinutesDown": {
-      "2026-03-31": 676,
-      "2026-03-30": 1440,
-      "2026-03-29": 1440,
-      "2026-03-28": 700
-    }
-  },
-  {
-    "name": "Emdey",
-    "url": "https://emdey.kz/",
-    "icon": "https://icons.duckduckgo.com/ip3/emdey.kz.ico",
-    "slug": "emdey",
-    "status": "up",
-    "uptime": "98.71%",
-    "uptimeDay": "96.17%",
-    "uptimeWeek": "98.71%",
-    "uptimeMonth": "98.71%",
-    "uptimeYear": "98.71%",
-    "time": 1492,
-    "timeDay": 1456,
-    "timeWeek": 1492,
-    "timeMonth": 1492,
-    "timeYear": 1492,
-    "dailyMinutesDown": {
-      "2026-03-31": 55
     }
   },
   {
@@ -111,18 +85,58 @@
     "icon": "https://icons.duckduckgo.com/ip3/densaulyk.kz.ico",
     "slug": "densaulyk",
     "status": "up",
-    "uptime": "99.19%",
+    "uptime": "99.24%",
     "uptimeDay": "97.60%",
-    "uptimeWeek": "99.19%",
-    "uptimeMonth": "99.19%",
-    "uptimeYear": "99.19%",
-    "time": 3532,
-    "timeDay": 3213,
-    "timeWeek": 3532,
-    "timeMonth": 3532,
-    "timeYear": 3532,
+    "uptimeWeek": "99.24%",
+    "uptimeMonth": "99.24%",
+    "uptimeYear": "99.24%",
+    "time": 3523,
+    "timeDay": 3294,
+    "timeWeek": 3523,
+    "timeMonth": 3523,
+    "timeYear": 3523,
     "dailyMinutesDown": {
       "2026-03-31": 35
+    }
+  },
+  {
+    "name": "MID Dev",
+    "url": "https://mid.dev.emdey.kz/",
+    "icon": "https://icons.duckduckgo.com/ip3/mid.dev.emdey.kz.ico",
+    "slug": "mid-dev",
+    "status": "down",
+    "uptime": "5.57%",
+    "uptimeDay": "5.57%",
+    "uptimeWeek": "5.57%",
+    "uptimeMonth": "5.57%",
+    "uptimeYear": "5.57%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2026-03-31": 0
+    }
+  },
+  {
+    "name": "API Dev",
+    "url": "https://api.dev.emdey.kz/",
+    "icon": "https://icons.duckduckgo.com/ip3/api.dev.emdey.kz.ico",
+    "slug": "api-dev",
+    "status": "down",
+    "uptime": "6.67%",
+    "uptimeDay": "6.67%",
+    "uptimeWeek": "6.67%",
+    "uptimeMonth": "6.67%",
+    "uptimeYear": "6.67%",
+    "time": 977,
+    "timeDay": 977,
+    "timeWeek": 977,
+    "timeMonth": 977,
+    "timeYear": 977,
+    "dailyMinutesDown": {
+      "2026-03-31": 0
     }
   }
 ]
