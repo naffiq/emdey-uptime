@@ -6,16 +6,22 @@ sites:
     url: https://emdey.kz/
   - name: API Emdey
     url: https://api.emdey.kz/
+    expectedStatusCodes:
+      - 200
+      - 404
   - name: MIS Emdey
     url: https://mis.emdey.kz/
   - name: Vet Emdey
     url: https://vet.emdey.kz/
   - name: Densaulyk
     url: https://densaulyk.kz/
-  - name: MID Dev
-    url: https://mid.dev.emdey.kz/
+  - name: MIS Dev
+    url: https://mis.dev.emdey.kz/
   - name: API Dev
     url: https://api.dev.emdey.kz/
+    expectedStatusCodes:
+      - 200
+      - 404
 
 status-website:
   publish: true
